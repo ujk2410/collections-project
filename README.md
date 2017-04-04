@@ -1,4 +1,4 @@
-# Basic Project
+# Collections Project
 ## Basic Project Structure
 
 *Default Structure for A Basic Project*
